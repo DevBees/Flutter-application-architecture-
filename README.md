@@ -1,1 +1,5 @@
-# Flutter-application-architecture-
+# Flutter application architecture
+
+## MVC
+## MVP
+## MVVM
